@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Work/untitled/Comanda.cpp
+Comanda.h
+D:/Work/untitled/Comanda.h
+
+D:/Work/untitled/Comanda.h
+Produs.h
+D:/Work/untitled/Produs.h
+Data.h
+D:/Work/untitled/Data.h
+iostream
+-
+
+D:/Work/untitled/Data.h
+iostream
+-
+
+D:/Work/untitled/Produs.h
+string
+-
+iostream
+-
+
+D:/Work/untitled/main.cpp
+iostream
+-
+vector
+-
+memory
+-
+Comanda.h
+D:/Work/untitled/Comanda.h
+
